@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @RenatoSoriano
-- I have a B.Sc. in Mechatronics Engineering.
-- I’m currently working as an Embedded Software Engineer.
-- How to reach me: 
+- 👋 Hi, I’m Renato Soriano.
+- 🤖 I have a B.Sc. in Mechatronics Engineering.
+- 💻 I’m currently working as an Embedded Software Engineer.
+- My interests are the 🚙 Automotive and 🚀 Space industries.
+- 📟 How to reach me: 
 - Email: renatosoriano@outlook.com
 - LinkedIn: www.linkedin.com/in/renatosoriano/
 
