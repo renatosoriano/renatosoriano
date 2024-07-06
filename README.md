@@ -9,6 +9,7 @@
 
 You can find here some of my projects. Hope you like them!
 
+- **[AUTOSAR MCAL Embedded Upskilling Bootcamp](https://github.com/renatosoriano/AUTOSAR-MCAL-Embedded-Upskilling-Bootcamp)** by Modular MX.
 - **[Hands-On RTOS with Microcontrollers](https://github.com/renatosoriano/Hands-On-RTOS-with-Microcontrollers-Book-Projects)** updated projects from the book by Brian Amos and published by Packt.
 - **[ARM Cortex M Microcontroller DMA Programming Demystified (DMA)](https://github.com/renatosoriano/Udemy-Embedded-Course8_ARM-Cortex-M-Microcontroller-DMA-Programming-Demystified)** Udemy course by FastBit Embedded Brain Academy.
 - **[Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging (RTOS)](https://github.com/renatosoriano/Udemy-Embedded-Course7_Mastering-RTOS-Hands-on-FreeRTOS-and-STM32Fx-with-Debugging)** Udemy course by FastBit Embedded Brain Academy.
