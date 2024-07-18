@@ -21,7 +21,7 @@ You can find here some of my projects. Hope you like them!
 - **[Real-Time Embedded Systems Specialization](https://github.com/renatosoriano/Coursera_Real-Time-Embedded-Systems-Specialization)** Coursera course by University of Colorado Boulder.
 - **[Introduction to Embedded Systems Software and Development Environments](https://github.com/renatosoriano/Coursera_Introduction-to-Embedded-Systems-Software-and-Development-Environments)** Coursera course by University of Colorado Boulder.
 
-You can find my eBook <u>Embedded Software Engineering: Secrets & Insider Tips for Career Success<u> on Amazon Worldwide and Gumroad: 
+You can find my eBook **Embedded Software Engineering: Secrets & Insider Tips for Career Success** on Amazon Worldwide and Gumroad: 
 
 - **[Amazon US 🇺🇸](https://www.amazon.com/dp/B0CX5XXSPP)**
 - **[Amazon MX 🇲🇽](https://www.amazon.com.mx/dp/B0CX5XXSPP)**
