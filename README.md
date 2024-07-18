@@ -7,6 +7,10 @@
 - Email: renatosoriano@outlook.com
 - LinkedIn: www.linkedin.com/in/renatosoriano/
 
+You can find my eBook on Amazon Worldwide and Gumroad: <ins>Embedded Software Engineering: Secrets & Insider Tips for Career Success!<ins>
+
+**[Amazon US 🇺🇸](https://www.amazon.com/dp/B0CX5XXSPP)** | **[Amazon MX 🇲🇽](https://www.amazon.com.mx/dp/B0CX5XXSPP)** | **[Amazon UK 🇬🇧](https://www.amazon.co.uk/dp/B0CX5XXSPP)** | **[Amazon DE 🇩🇪](https://www.amazon.de/dp/B0CX5XXSPP)** | **[Amazon FR 🇫🇷](https://www.amazon.fr/dp/B0CX5XXSPP)** | **[Amazon ES 🇪🇸](https://www.amazon.es/dp/B0CX5XXSPP)** | **[Amazon IT 🇮🇹](https://www.amazon.it/dp/B0CX5XXSPP)** | **[Amazon NL 🇳🇱](https://www.amazon.nl/dp/B0CX5XXSPP)** | **[Amazon JP 🇯🇵](https://www.amazon.co.jp/dp/B0CX5XXSPP)** | **[Amazon BR 🇧🇷](https://www.amazon.com.br/dp/B0CX5XXSPP)** | **[Amazon CA 🇨🇦](https://www.amazon.ca/dp/B0CX5XXSPP)** | **[Amazon AU 🇦🇺](https://www.amazon.com.au/dp/B0CX5XXSPP)** | **[Amazon IN 🇮🇳](https://www.amazon.in/dp/B0CX5XXSPP)** | **[Gumroad 👾](https://renatosoriano.gumroad.com/l/CareerSuccessEmbedded/5c3dkg3)**
+
 You can find here some of my projects. Hope you like them!
 
 - **[AUTOSAR MCAL Embedded Upskilling Bootcamp](https://github.com/renatosoriano/AUTOSAR-MCAL-Embedded-Upskilling-Bootcamp)** Projects, examples and exercises by Modular MX.
@@ -20,25 +24,6 @@ You can find here some of my projects. Hope you like them!
 - **[Microcontroller Embedded C Programming: Absolute Beginners](https://github.com/renatosoriano/Udemy-Embedded-Course1_Microcontroller-Embedded-C-Programming-Absolute-Beginners)** Udemy course by FastBit Embedded Brain Academy.
 - **[Real-Time Embedded Systems Specialization](https://github.com/renatosoriano/Coursera_Real-Time-Embedded-Systems-Specialization)** Coursera course by University of Colorado Boulder.
 - **[Introduction to Embedded Systems Software and Development Environments](https://github.com/renatosoriano/Coursera_Introduction-to-Embedded-Systems-Software-and-Development-Environments)** Coursera course by University of Colorado Boulder.
-
-You can find my eBook on Amazon Worldwide and Gumroad: <ins>Embedded Software Engineering: Secrets & Insider Tips for Career Success!<ins>
-
-**[Amazon US 🇺🇸](https://www.amazon.com/dp/B0CX5XXSPP)**  **[Amazon MX 🇲🇽](https://www.amazon.com.mx/dp/B0CX5XXSPP)**  **[Amazon UK 🇬🇧](https://www.amazon.co.uk/dp/B0CX5XXSPP)**  **[Amazon DE 🇩🇪](https://www.amazon.de/dp/B0CX5XXSPP)**  **[Amazon FR 🇫🇷](https://www.amazon.fr/dp/B0CX5XXSPP)**  **[Amazon ES 🇪🇸](https://www.amazon.es/dp/B0CX5XXSPP)**  **[Amazon IT 🇮🇹](https://www.amazon.it/dp/B0CX5XXSPP)**  **[Amazon NL 🇳🇱](https://www.amazon.nl/dp/B0CX5XXSPP)**  **[Amazon JP 🇯🇵](https://www.amazon.co.jp/dp/B0CX5XXSPP)**  **[Amazon BR 🇧🇷](https://www.amazon.com.br/dp/B0CX5XXSPP)**  **[Amazon CA 🇨🇦](https://www.amazon.ca/dp/B0CX5XXSPP)**  **[Amazon AU 🇦🇺](https://www.amazon.com.au/dp/B0CX5XXSPP)**  **[Amazon IN 🇮🇳](https://www.amazon.in/dp/B0CX5XXSPP)**  **[Gumroad](https://renatosoriano.gumroad.com/l/CareerSuccessEmbedded/5c3dkg3)**
-
-- **[Amazon US 🇺🇸](https://www.amazon.com/dp/B0CX5XXSPP)**
-- **[Amazon MX 🇲🇽](https://www.amazon.com.mx/dp/B0CX5XXSPP)**
-- **[Amazon UK 🇬🇧](https://www.amazon.co.uk/dp/B0CX5XXSPP)**
-- **[Amazon DE 🇩🇪](https://www.amazon.de/dp/B0CX5XXSPP)**
-- **[Amazon FR 🇫🇷](https://www.amazon.fr/dp/B0CX5XXSPP)**
-- **[Amazon ES 🇪🇸](https://www.amazon.es/dp/B0CX5XXSPP)**
-- **[Amazon IT 🇮🇹](https://www.amazon.it/dp/B0CX5XXSPP)**
-- **[Amazon NL 🇳🇱](https://www.amazon.nl/dp/B0CX5XXSPP)**
-- **[Amazon JP 🇯🇵](https://www.amazon.co.jp/dp/B0CX5XXSPP)**
-- **[Amazon BR 🇧🇷](https://www.amazon.com.br/dp/B0CX5XXSPP)**
-- **[Amazon CA 🇨🇦](https://www.amazon.ca/dp/B0CX5XXSPP)**
-- **[Amazon AU 🇦🇺](https://www.amazon.com.au/dp/B0CX5XXSPP)**
-- **[Amazon IN 🇮🇳](https://www.amazon.in/dp/B0CX5XXSPP)**
-- **[Gumroad](https://renatosoriano.gumroad.com/l/CareerSuccessEmbedded/5c3dkg3)**
 
 <!---
 renatosoriano/renatosoriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
