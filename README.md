@@ -21,6 +21,22 @@ You can find here some of my projects. Hope you like them!
 - **[Real-Time Embedded Systems Specialization](https://github.com/renatosoriano/Coursera_Real-Time-Embedded-Systems-Specialization)** Coursera course by University of Colorado Boulder.
 - **[Introduction to Embedded Systems Software and Development Environments](https://github.com/renatosoriano/Coursera_Introduction-to-Embedded-Systems-Software-and-Development-Environments)** Coursera course by University of Colorado Boulder.
 
+You can find my eBook <ins>Embedded Software Engineering: Secrets & Insider Tips for Career Success<ins> on Amazon Worldwide and Gumroad! 
+
+- **[Amazon US 🇺🇸](https://www.amazon.com/dp/B0CX5XXSPP)**
+- **[Amazon MX 🇲🇽](https://www.amazon.com.mx/dp/B0CX5XXSPP)**
+- **[Amazon UK 🇬🇧](https://www.amazon.co.uk/dp/B0CX5XXSPP)**
+- **[Amazon DE 🇩🇪](https://www.amazon.de/dp/B0CX5XXSPP)**
+- **[Amazon FR 🇫🇷](https://www.amazon.fr/dp/B0CX5XXSPP)**
+- **[Amazon ES 🇪🇸](https://www.amazon.es/dp/B0CX5XXSPP)**
+- **[Amazon IT 🇮🇹](https://www.amazon.it/dp/B0CX5XXSPP)**
+- **[Amazon NL 🇳🇱](https://www.amazon.nl/dp/B0CX5XXSPP)**
+- **[Amazon JP 🇯🇵](https://www.amazon.co.jp/dp/B0CX5XXSPP)**
+- **[Amazon BR 🇧🇷](https://www.amazon.com.br/dp/B0CX5XXSPP)**
+- **[Amazon CA 🇨🇦](https://www.amazon.ca/dp/B0CX5XXSPP)**
+- **[Amazon AU 🇦🇺](https://www.amazon.com.au/dp/B0CX5XXSPP)**
+- **[Amazon IN 🇮🇳](https://www.amazon.in/dp/B0CX5XXSPP)**
+- **[Gumroad](https://renatosoriano.gumroad.com/l/CareerSuccessEmbedded/5c3dkg3)**
 
 <!---
 renatosoriano/renatosoriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
