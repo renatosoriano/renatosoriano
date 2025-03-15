@@ -1,16 +1,17 @@
 - 👋 Hi, I’m Renato Soriano.
 - 🤖 I have a B.Sc. in Mechatronics Engineering.
-- 💻 I’m currently working as an Embedded Software Engineer applied into AUTOSAR, Cybersecurity and Functional Safety for 🚙 Automotive industry.
-- 🛡️ I'm a Cybersecurity Certified Automotive Engineer (CSCAE) by TUV Nord.
+- 💻 Currently work as an Embedded Software Engineer applied into AUTOSAR, Cybersecurity and Functional Safety for 🚙 Automotive industry.
 - 📟 How to reach me: 
 - Email: renatosoriano@outlook.com
 - LinkedIn: www.linkedin.com/in/renatosoriano/
 
-**You can find my eBook on Amazon Worldwide and Gumroad: <ins>Embedded Software Engineering: Secrets & Insider Tips for Career Success!<ins>**
+**⬇️ Scroll below to see my Embedded Projects and Trainings! ⬇️**
+
+**You can find my 📘 eBook on Amazon Worldwide and Gumroad: <ins>Embedded Software Engineering: Secrets & Insider Tips for Career Success!<ins>**
 
 **[Amazon US 🇺🇸](https://www.amazon.com/dp/B0CX5XXSPP)** | **[Amazon MX 🇲🇽](https://www.amazon.com.mx/dp/B0CX5XXSPP)** | **[Amazon UK 🇬🇧](https://www.amazon.co.uk/dp/B0CX5XXSPP)** | **[Amazon DE 🇩🇪](https://www.amazon.de/dp/B0CX5XXSPP)** | **[Amazon FR 🇫🇷](https://www.amazon.fr/dp/B0CX5XXSPP)** | **[Amazon ES 🇪🇸](https://www.amazon.es/dp/B0CX5XXSPP)** | **[Amazon IT 🇮🇹](https://www.amazon.it/dp/B0CX5XXSPP)** | **[Amazon NL 🇳🇱](https://www.amazon.nl/dp/B0CX5XXSPP)** | **[Amazon JP 🇯🇵](https://www.amazon.co.jp/dp/B0CX5XXSPP)** | **[Amazon BR 🇧🇷](https://www.amazon.com.br/dp/B0CX5XXSPP)** | **[Amazon CA 🇨🇦](https://www.amazon.ca/dp/B0CX5XXSPP)** | **[Amazon AU 🇦🇺](https://www.amazon.com.au/dp/B0CX5XXSPP)** | **[Amazon IN 🇮🇳](https://www.amazon.in/dp/B0CX5XXSPP)** | **[Gumroad 👾](https://renatosoriano.gumroad.com/l/CareerSuccessEmbedded/5c3dkg3)**
 
-![640x640 Cover_Embedded Software Engineering - Secrets   Insider Tips for Career Success](https://github.com/user-attachments/assets/99b45dd1-9b9a-4641-a74a-8fb57c817fca)
+![480x480 Cover_Embedded Software Engineering - Secrets   Insider Tips for Career Success](https://github.com/user-attachments/assets/285293ea-4e75-480c-8752-0eee94a97771)
 
 You can find here some of my projects. Hope you like them!
 
