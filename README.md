@@ -1,6 +1,6 @@
 # Hi, I’m Renato Soriano. 👋
 - 🤖 I have a B.Sc. in Mechatronics Engineering.
-- 💻 Currently work as an Embedded Software Engineer applied into AUTOSAR, Real-Time Operating Systems, Functional Safety, and Cybersecurity for 🚙 Automotive industry.
+- 💻 Currently working as an Embedded Software Engineer applied into AUTOSAR, Real-Time Operating Systems, Functional Safety, and Cybersecurity for 🚙 Automotive industry.
 
 📟 How to reach me: 
 - Email: renatosoriano@outlook.com
