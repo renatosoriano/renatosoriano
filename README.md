@@ -16,7 +16,7 @@
 ![480x480 Cover_Embedded Software Engineering - Secrets   Insider Tips for Career Success](https://github.com/user-attachments/assets/285293ea-4e75-480c-8752-0eee94a97771)
 
 ## Some of my Embedded Projects and Trainings:
-_*Order: Newest (top) - Older (bottom)_
+_*Order: Newest (top) - Oldest (bottom)_
 
 1.  **[AUTOSAR MCAL Embedded Upskilling Bootcamp](https://github.com/renatosoriano/AUTOSAR-MCAL-Embedded-Upskilling-Bootcamp)**: _Projects, examples and exercises by Modular MX._
 2. **[Hands-On RTOS with Microcontrollers](https://github.com/renatosoriano/Hands-On-RTOS-with-Microcontrollers-Book-Projects)**: _Updated projects from the book by Brian Amos and published by Packt._
