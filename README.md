@@ -16,6 +16,12 @@
 ![480x480 Cover_Embedded Software Engineering - Secrets   Insider Tips for Career Success](https://github.com/user-attachments/assets/285293ea-4e75-480c-8752-0eee94a97771)
 
 ## Some of my Embedded Projects and Trainings:
+These are inspired from courses I took, or books I read, as for the source of the theory and knowledge.
+
+- The **goal** is to show projects I have done, already digested by me with tips and proper organization, that also can be followed by other people. So in this space you can find everything in one place, and learn and test different skills.
+- Some of the projects have code **examples**, those are also from those courses/books.
+- There are also **exercises** and some even have a **final mini project**, normally each having a main.c for the application intended to teach or specific folder for a driver. Those are developed and written by me, and depending on the context of the topic, would use HAL libraries APIs or the bare-metal code.
+
 _*Order: Newest (top) - Oldest (bottom)_
 
 1.  **[AUTOSAR MCAL Embedded Upskilling Bootcamp](https://github.com/renatosoriano/AUTOSAR-MCAL-Embedded-Upskilling-Bootcamp)**: _Projects, examples and exercises by Modular MX._
