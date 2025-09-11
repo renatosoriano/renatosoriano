@@ -20,7 +20,7 @@ These are inspired from courses I took, or books I read, as for the source of th
 
 - The **goal** is to show projects I have done, already digested by me with tips and proper organization, that also can be followed by other people. So in this space you can find everything in one place, and learn and test different skills.
 - Some of the projects have code **examples**, those are also from those courses/books.
-- There are also **exercises** and some even have a **final mini project**, normally each having a main.c for the application intended to teach or specific folder for a driver. Those are developed and written by me, and depending on the context of the topic, would use HAL libraries APIs or the bare-metal code.
+- There are also **exercises** and some even have a **final mini project**, normally each having a main.c for the application intended to teach or specific folder for a driver. Those are developed and written by me, and depending on the context of the topic, would use HAL libraries APIs or bare-metal code.
 
 _*Order: Newest (top) - Oldest (bottom)_
 
