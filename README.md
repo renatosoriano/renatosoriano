@@ -19,7 +19,7 @@
 
 - The **goal** is to show projects with tips and proper organization, so others can use it as a guide to learn and test different skills.
 - Some of the projects have code **examples**, from courses/books I studied, as well as some **exercises** and **final mini project** that I developed.
-- For each application/topic that is intended to be demonstrated and taught, you will find a main.c file or a specific driver folder with the bare-metal code or HAL libraries APIs used.
+- For each use case or topic to be demonstrated and taught, you will find a main.c file or a specific driver folder with the bare-metal code or HAL libraries APIs used.
 
 _*Order: Newest (top) - Oldest (bottom)_
 
